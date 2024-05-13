@@ -7,12 +7,20 @@ I'm a passionate software developer with over 7 years of experience, currently r
 As a seasoned professional, I've honed my skills and expertise across various domains. Here's a glimpse of my professional journey:
 
 ### Senior Software Engineer
-[Axelerant] - [remote]
-Dec, 2023] - Present
+Axelerant - remote
+Dec, 2023 - Present
+
+### Javascript Developer
+Srijan Technologies - remote
+Feb, 2022 - Sept, 2023
 
 ### Software Engineer
-[Srijan Technologies] - [remote]
-[Feb, 2022] - [Sept, 2023]
+CILA Labs - remote
+Dec, 2020 - Dec, 2021
+
+### Web Developer
+Varcas Interactive - Bengaluru
+Nov, 2016 - Dec, 2020
 
 
 ## 🔧 Skills & Expertise
