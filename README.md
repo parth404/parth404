@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Parth! Welcome to my GitHub Profile! 🚀
 
-I'm a passionate software developer with over 7 years of experience, currently rocking the role of a Senior Software Engineer. Since stepping into the world of web development, life hasn't been the same! My core stack revolves around React, Next.js, Node.js, and MongoDB, but I'm always eager to explore new horizons.
+I'm a passionate software developer with over 7 years of experience, currently leading as a Senior Software Engineer. Since stepping into the world of web development, life hasn't been the same! My core stack revolves around React, Next.js, Node.js, and MongoDB, but I'm always eager to explore new horizons.
 
 ## 💼 Professional Experience
 
