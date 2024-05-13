@@ -42,7 +42,7 @@ When I'm not coding, you'll find me strumming my guitar, taking leisurely walks 
 
 ## 📧 Let's Connect
 
-Excited to collaborate on projects, share insights, or just have a chat? Feel free to reach out to me via [email](mailto:parthget@outlook.com) or connect with me on [LinkedIn]([Your LinkedIn Profile URL](https://www.linkedin.com/in/parthbcharya)). Let's embark on a journey of innovation and growth together!
+Excited to collaborate on projects, share insights, or just have a chat? Feel free to reach out to me via [email](mailto:parthget@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/parthbcharya). Let's embark on a journey of innovation and growth together!
 
 ## 🌟 Thanks for Visiting!
 
